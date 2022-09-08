@@ -2,7 +2,7 @@
 
 I'm Hailey, a junior programmer.
 
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate junior programmer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linqiwn&label=Profile%20views&color=0e75b6&style=flat" alt="linqiwn" /> </p>
 
