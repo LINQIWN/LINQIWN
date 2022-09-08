@@ -2,14 +2,6 @@
 
 I'm Hailey, a junior programmer.
 
-
-<!-- - 🔭 I’m currently striving for a better life all around the World.
-- 🌱 I’m currently learning ...
-- 💬 Ask me questions about Machine-Learning and Back-end.
-- 📫 My E-mail: qiwen_lin@163.com
-
-![](https://img.shields.io/badge/Writing%20Tools-VS%20Code-blue)
-![](https://img.shields.io/badge/Writing%20Tools-Jupyter%2C%20PyCharm-orange) -->
 <h3 align="center">A passionate frontend developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linqiwn&label=Profile%20views&color=0e75b6&style=flat" alt="linqiwn" /> </p>
@@ -23,7 +15,7 @@ I'm Hailey, a junior programmer.
 - 📫 How to reach me **Qiwen_lin@163.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="right">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
