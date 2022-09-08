@@ -16,7 +16,7 @@ I'm Hailey, a junior programmer.
 
 - 🔭 I’m currently working on **My graduate Thesis Project**
 
-- 🌱 I’m currently learning **Deep Learning & Back-end**
+- 🌱 I’m currently learning **Machine-Learning & Deep Learning & Back-end**
 
 - 💬 Ask me about **Front-end & Database**
 
