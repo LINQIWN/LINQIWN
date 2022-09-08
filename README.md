@@ -8,3 +8,5 @@ I'm Hailey, a junior programmer.
 - 💬 Ask me questions about Machine-Learning and Back-end.
 - 📫 My E-mail: qiwen_lin@163.com
 
+![](https://img.shields.io/badge/Writing%20Tools-VS%20Code-blue)
+![](https://img.shields.io/badge/Writing%20Tools-Jupyter%2C%20PyCharm-orange)
